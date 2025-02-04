@@ -1,0 +1,137 @@
+    1  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    2  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    3  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    4  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    5  python3 HW2P1.py
+    6  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    7  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    8  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+    9  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   10  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   11  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   12  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   13  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   14  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   15  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   16  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   17  /usr/local/bin/python /root/Desktop/host/HW2/HW2P1.py
+   18  ls
+   19  cd /HW2
+   20  cd HW2
+   21  ls
+   22  git init
+   23  git branch
+   24  git branch -M main
+   25  git checkout -b main
+   26  git remote add origin https://github.com/cornnat/HW2.git
+   27  git remote -v
+   28  touch HW2P1.py
+   29  code HW2P1.py 
+   30  python3 HW2P1.py 
+   31  python3 HW2P1.py 
+   32  python3 HW2P1.py 
+   33  /usr/local/bin/python /root/Desktop/host/SEC2/task1/graham_scan.py
+   34  ls
+   35  /usr/local/bin/python /root/Desktop/host/SEC2/task1/graham_scan.py
+   36  /usr/local/bin/python /root/Desktop/host/SEC2/task1/graham_scan.py
+   37  /usr/local/bin/python /root/Desktop/host/SEC2/task1/graham_scan.py
+   38  /usr/local/bin/python /root/Desktop/host/SEC2/task1/jarvis_march.py
+   39  /usr/local/bin/python /root/Desktop/host/SEC2/task1/combined_convex_hulls.py
+   40  /usr/local/bin/python /root/Desktop/host/SEC2/task1/combined_convex_hulls.py
+   41  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   42  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   43  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   44  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   45  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   46  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   47  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   48  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   49  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   50  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   51  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   52  /usr/local/bin/python /root/Desktop/host/SEC2/task1/time_comp_point_cloud.py
+   53  /usr/local/bin/python /root/Desktop/host/SEC2/task1/runtimeanalysis.py
+   54  ls
+   55  cd SEC2
+   56  git init
+   57  git remote add origin https://github.com/cornnat/SEC2.git
+   58  git remote set-url origin https://github.com/cornnat/SEC2.git
+   59  git remote -v
+   60  ls
+   61  cd task1
+   62  ls
+   63  code graham_scan.py 
+   64  python3 graham_scan.py 
+   65  python3 graham_scan.py 
+   66  python3 graham_scan.py 
+   67  python3 graham_scan.py 
+   68  python3 graham_scan.py
+   69  ls
+   70  code graham_scan.py
+   71  code jarvis_march.py 
+   72  python3 jarvis_march.py 
+   73  python3 jarvis_march.py 
+   74  code monotone_chain.py
+   75  code combined_convex_hulls.py
+   76  python3 combined_convex_hulls.py 
+   77  python3 combined_convex_hulls.py 
+   78  code time_comp_point_cloud.py
+   79  python3 time_comp_point_cloud.py 
+   80  code combined_convex_hull
+   81  code combined_convex_hull.py
+   82  ls
+   83  code combined_convex_hulls.py
+   84  code monotone_chain.py
+   85  python time_comp_point_cloud.py 
+   86  python3 time_comp_point_cloud.py 
+   87  python3 time_comp_point_cloud.py 
+   88  python3 time_comp_point_cloud.py 
+   89  python3 time_comp_point_cloud.py 
+   90  python3 time_comp_point_cloud.py 
+   91  python3 time_comp_point_cloud.py 
+   92  python3 time_comp_point_cloud.py 
+   93  code runtimeanalysis.py
+   94  python3 runtimeanalysis.py 
+   95  cd ..
+   96  git remote -v
+   97  git add .
+   98  history | tail -n 10000 > historysec2.txt
+   99  ls
+  100  mv historysec2.txt SEC2TASK1_history2.txt
+  101  ls
+  102  git add .
+  103  git status
+  104  git push -u origin main
+  105  git add .
+  106  git commit -m "section 2 final push"
+  107  git config --global user.name "cornnat"
+  108  git config --global user.email "nataliekim@ucsb.edu
+  109  git config
+  110  git config --global --list
+  111  git config --global user.email "nataliekim@ucsb.edu"
+  112  git config --global --list
+  113  git add .
+  114  git commit -m "final sec 2 push"
+  115  git status
+  116  git push -u origin main
+  117  ls
+  118  cd HW2
+  119  ls
+  120  code HW2P1.py 
+  121  python3 HW2P1.py 
+  122  python3 HW2P1.py 
+  123  python3 HW2P1.py 
+  124  python3 HW2P1.py 
+  125  python3 HW2P1.py 
+  126  python3 HW2P1.py 
+  127  python3 HW2P1.py 
+  128  python3 HW2P1.py 
+  129  python3 HW2P1.py 
+  130  python3 HW2P1.py 
+  131  python3 HW2P1.py 
+  132  python3 HW2P1.py 
+  133  python3 HW2P1.py 
+  134  python3 HW2P1.py 
+  135  python3 HW2P1.py 
+  136  git init
+  137  history | tail -n 10000 > HW2_history.txt
