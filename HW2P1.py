@@ -169,7 +169,7 @@ def plot_top_hemisphere_with_basis_vectors():
     ax.legend()
 
     # Save the plot as a PNG file
-    plt.savefig('hemisphere_with_local_orth_basis_vectors.png', dpi=300)
+    plt.savefig('/root/Desktop/host/HW2/P1_plots/hemisphere_with_local_orth_basis_vectors.png', dpi=300)
     plt.show()
 
 # Run the plotting function
@@ -262,7 +262,7 @@ ax.set_title('Local Coordinate System on Surface z = f(x, y)')
 ax.legend()
 
 # Save the plot as a PNG file
-plt.savefig('test_local_coordinate_system_function.png', dpi=300, bbox_inches='tight')
+plt.savefig('/root/Desktop/host/HW2/P1_plots/test_local_coordinate_system_function.png', dpi=300, bbox_inches='tight')
 
 # Show the plot
 plt.show()
@@ -361,7 +361,7 @@ ax.set_title('Parallel Transport on a Sphere')
 ax.legend()
 
 # Save the plot as a PNG file
-plt.savefig('parallel_transport_sphere.png', dpi=300, bbox_inches='tight')
+plt.savefig('/root/Desktop/host/HW2/P1_plots/parallel_transport_sphere.png', dpi=300, bbox_inches='tight')
 
 # Show the plot
 plt.show()
@@ -466,7 +466,7 @@ ax.set_title('Parallel Transport Along a Circle of Constant Latitude')
 ax.legend()
 
 # Save the plot as a PNG file
-plt.savefig('parallel_transport_circle.png', dpi=300, bbox_inches='tight')
+plt.savefig('/root/Desktop/host/HW2/P1_plots/parallel_transport_circle.png', dpi=300, bbox_inches='tight')
 
 # Show the plot
 plt.show()
@@ -504,5 +504,5 @@ plt.xlabel("theta_0 (Initial Latitude)")
 plt.ylabel("Inner Product of Initial and Final Vector")
 plt.title('Holonomy Strength vs. Latitude')
 plt.grid(True)
-plt.savefig('holonomy_strength_vs_latitude.png', dpi=300, bbox_inches='tight')
+plt.savefig('/root/Desktop/host/HW2/P1_plots/holonomy_strength_vs_latitude.png', dpi=300, bbox_inches='tight')
 plt.show()
